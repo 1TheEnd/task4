@@ -1,6 +1,6 @@
-# Основы java Script
+# Основы Java Script
 Используемые технологии
-* java Script
+* Java Script
 * HTML
 * CSS
 
